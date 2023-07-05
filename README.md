@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💼 &nbsp; Aspiring Backend Development.
+- 💼 &nbsp; Backend Developer.
 - 🤔 &nbsp; Pursuing MCA from Indira Gandhi National Open University.
 - 🌱 &nbsp; Learning more about Apps, Software Engineering, Algorithms, Realworld Business.
 - ⚡️ &nbsp; I enjoy playing cricket on holidays.
